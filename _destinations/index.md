@@ -9,3 +9,7 @@ redirect_from: /destinations/index.html
 [On the prairie with Bison in Yellowstone NP](https://csci491-01.cs.montana.edu/~f15p655/home/bison.html)
 
 [On the glaciated coast of Norway](https://csci491-01.cs.montana.edu/~f15p655/home/fjord.html)
+
+[Rolling ocean waves](https://csci491-01.cs.montana.edu/~f15p655/home/oceanwaves.html)
+
+[Young seal](https://csci491-01.cs.montana.edu/~f15p655/home/seal.html)
