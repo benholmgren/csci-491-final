@@ -1,8 +1,7 @@
 # Site settings
-title: Ben Holmgren
+title: Nature Break
 email: benjamin.holmgren@student.montana.edu
-description: >
-  Personal website for Ben Holmgren, undergraduate student and researcher in the school of computing and in the department of mathematical sciences at Montana State University 
+description: Final Project website for csci 491
 lang: en-US
 
 baseurl: "/csci-491-final" # the subpath of your site, e.g. /blog/
@@ -50,20 +49,20 @@ defaults:
       type: "WebPage"
 
 - scope:
-    path: _research
-    type: research
+    path: _destinations
+    type: destinations
   values:
-    layout: research
-    sectionid: research
+    layout: destinations
+    sectionid: destinations
     seo:
       type: "WebPage"
 
 - scope:
-    path: _aboot
-    type: aboot
+    path: _about
+    type: about
   values:
-    layout: aboot
-    sectionid: aboot
+    layout: about
+    sectionid: about
     seo:
       type: "WebPage"
 
