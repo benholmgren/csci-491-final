@@ -18,9 +18,9 @@
       {% endfor %}
       <div class="panel-collapse{% if collapsed %} collapse{% endif %}" id="collapse-{{forloop.index}}" role="tabpanel" aria-label="Side Navigation">
         <div class="list-group">
-          {% for item in section.aboot %}
+          {% for item in section.about %}
             {% assign item_url = item | prepend:"/about/" | append:"/" %}
-            {% assign p = site.aboot | where:"url", item_url | first %}
+            {% assign p = site.about | where:"url", item_url | first %}
             <a class="list-group-item {% if item_url == page.url %}active{% endif %}" href="{{ p.url  | relative_url }}">{{ p.title }}</a>
           {% endfor %}
         </div>
