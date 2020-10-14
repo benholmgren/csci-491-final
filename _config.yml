@@ -73,9 +73,9 @@ collections:
   posts:
     permalink: /blog/:year/:month/:day/:title/
     output: true
-  research:
+  destinations:
     permalink: /:collection/:path/
     output: true
-  aboot:
+  about:
     permalink: /:collection/:path/
     output: true
