@@ -9,27 +9,25 @@ jekyll tutorials on youtube, they're pretty helpful. All you'll need to do for p
 is to potentially host locally on your machine. (on mac, use 'bundle exec jekyll serve')
 If you're feeling good about a change, commit it and push it to the gh-pages branch ('git push origin gh-pages').
 Github automatically hosts the site off of this branch, which is sweet.
-
 When making changes, I'm expecting that we'll only really need to edit in the 'about' and 'destinations' sections of the site.
 To do this, all you need to do is add a markdown file of the page you want to add, and it'll be available in the menu section of the
 respective page if you simply designate the page in its respective .yml file. To add a page to the destination page, add this 'example.md'
 in the _destination folder with the header:
+'''
 ---
 title: Destinations
 permalink: /destinations/example/
 redirect_from: /destinations/example.html
 ---
-
+'''
 Then change data/destination.yml to be:
-
+'''
 - title: Destinations
   destinations:
   - home
   - example
-
+'''
 Then push your changes and github should have the updated site hosted in 5 minutes or so. Often it only takes a matter of seconds, but sometimes
 changes can take longer to update (~15 min maybe).
-
 After this is all done, you should've added a new page to either the destinations or about sections, and you should see it on the website.
-
 There is kinda a lot going on here, so if other changes are wanted and you're unsure of how to go about them, feel free to ask me about it.
