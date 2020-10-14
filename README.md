@@ -34,90 +34,86 @@ There is kinda a lot going on here, so if other changes are wanted and you're un
 
 To add scenes, I've just been adding links our course server, where I've downloaded videos of cool nature scenes.
 Here's the code I've been using for the html pages which I've just put on my page on the course server (feel free to do this with yours as well)
+
 ```
-Last login: Sat Oct 10 22:19:44 on ttys000
-benjaminholmgren@Benjamins-Air ~ % gem "kramdown", ">= 2.3.0"
-ERROR:  While executing gem ... (Gem::CommandLineError)
-    Unknown command kramdown,
-benjaminholmgren@Benjamins-Air ~ % bundle update gem kramdown
-Could not locate Gemfile
-benjaminholmgren@Benjamins-Air ~ % ssh f15p655@csci491-01.cs.montana.edu
-The authenticity of host 'csci491-01.cs.montana.edu (153.90.127.189)' can't be established.
-ECDSA key fingerprint is SHA256:20eWAGhZWEQt1CksJMo9AHJ67Sqox6WljdtxrAqhGj8.
-Are you sure you want to continue connecting (yes/no)? yes
-Warning: Permanently added 'csci491-01.cs.montana.edu,153.90.127.189' (ECDSA) to the list of known hosts.
-f15p655@csci491-01.cs.montana.edu's password: 
-Last login: Sun Oct 11 16:59:57 2020 from 71.15.202.193
-[f15p655@csci491-01 ~]$ ls
-public_html
-[f15p655@csci491-01 ~]$ cd public_html/
-[f15p655@csci491-01 public_html]$ ls
-demolamp  example.html  minimal.html
-[f15p655@csci491-01 public_html]$ vim whale.html
-[f15p655@csci491-01 public_html]$ pws
--bash: pws: command not found
-[f15p655@csci491-01 public_html]$ pwd
-/home/f15p655/public_html
-[f15p655@csci491-01 public_html]$ ls
-demolamp  example.html  home  minimal.html
-[f15p655@csci491-01 public_html]$ ls
-demolamp  example.html  home  minimal.html
-[f15p655@csci491-01 public_html]$ cd home/
-[f15p655@csci491-01 home]$ ls
-bison.html  bison.mp4  fjord.html  fjord.mp4  whale.html  whale.mp4
-[f15p655@csci491-01 home]$ vim fjord.
-[f15p655@csci491-01 home]$ vim fjord.html 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-    color: #f1f1f1;
-    width: 100%;
-    padding: 20px;
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
+
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+</style>
+</head>
+<body>
+
+<video autoplay muted loop id="myVideo">
+  <source src="fjord.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
+<div class="content">
+  <h1>Heading</h1>
+  <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei. Id qui nemore latine molestiae, ad mutat oblique delicatissimi pro.</p>
+  <button id="myBtn" onclick="myFunction()">Pause</button>
+</div>
+
+<script>
+var video = document.getElementById("myVideo");
+var btn = document.getElementById("myBtn");
+
+function myFunction() {
+  if (video.paused) {
+    video.play();
+    btn.innerHTML = "Pause";
+  } else {
+    video.pause();
+    btn.innerHTML = "Play";
   }
+}
+</script>
 
-  #myBtn {
-    width: 200px;
-    font-size: 18px;
-    padding: 10px;
-    border: none;
-    background: #000;
-    color: #fff;
-    cursor: pointer;
-  }
-
-  #myBtn:hover {
-    background: #ddd;
-    color: black;
-  }
-  </style>
-  </head>
-  <body>
-
-  <video autoplay muted loop id="myVideo">
-    <source src="fjord.mp4" type="video/mp4">
-    Your browser does not support HTML5 video.
-  </video>
-
-  <div class="content">
-    <h1>Fog rises from a Norwegian fjord</h1>
-    <button id="myBtn" onclick="myFunction()">Pause</button>
-  </div>
-
-  <script>
-  var video = document.getElementById("myVideo");
-  var btn = document.getElementById("myBtn");
-
-  function myFunction() {
-    if (video.paused) {
-      video.play();
-      btn.innerHTML = "Pause";
-    } else {
-      video.pause();
-      btn.innerHTML = "Play";
-    }
-  }
-  </script>
-
-  </body>
-  </html>
+</body>
+</html>
 ```
 
 I just found this on geeks for geeks, but it's been working great. Try it
