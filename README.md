@@ -12,20 +12,21 @@ When making changes, I'm expecting that we'll only really need to edit in the 'a
 To do this, all you need to do is add a markdown file of the page you want to add, and it'll be available in the menu section of the
 respective page if you simply designate the page in its respective .yml file. To add a page to the destination page, add this 'example.md'
 in the _destination folder with the header:
-
->---
->title: Destinations
->permalink: /destinations/example/
->redirect_from: /destinations/example.html
->---
+```
+---
+title: Destinations
+permalink: /destinations/example/
+redirect_from: /destinations/example.html
+---
+```
 
 Then change data/destination.yml to be:
-
->- title: Destinations
->  destinations:
->  - home
->  - example
-
+```
+- title: Destinations
+  destinations:
+  - home
+  - example
+```
 Then push your changes and github should have the updated site hosted in 5 minutes or so. Often it only takes a matter of seconds, but sometimes
 changes can take longer to update (~15 min maybe).
 After this is all done, you should've added a new page to either the destinations or about sections, and you should see it on the website.
