@@ -66,6 +66,24 @@ defaults:
     seo:
       type: "WebPage"
 
+- scope:
+    path: _apply
+    type: apply
+  values:
+    layout: apply
+    sectionid: apply
+    seo:
+      type: "WebPage"
+
+- scope:
+    path: _discussion
+    type: discussion
+  values:
+    layout: discussion
+    sectionid: discussion
+    seo:
+      type: "WebPage"
+
 collections:
   docs:
     permalink: /:collection/:path/
@@ -77,5 +95,11 @@ collections:
     permalink: /:collection/:path/
     output: true
   about:
+    permalink: /:collection/:path/
+    output: true
+  apply:
+    permalink: /:collection/:path/
+    output: true
+  discussion:
     permalink: /:collection/:path/
     output: true
