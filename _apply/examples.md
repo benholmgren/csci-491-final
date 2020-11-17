@@ -4,4 +4,8 @@ permalink: /apply/examples/
 redirect_from: /apply/examples.html
 ---
 
-Photo Here
+<html>
+	<body>
+		<p>Photo Here</p>
+	</body>
+</html>
