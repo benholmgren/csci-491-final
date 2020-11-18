@@ -4,9 +4,27 @@ permalink: /about/home/
 redirect_from: /about/index.html
 ---
 
-Mission Statement
+<h2>How We Got Started</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam commodo, ante nec fermentum egestas, turpis odio eleifend urna, sed convallis eros ex eget justo. Nam non magna vitae purus finibus mollis suscipit vitae sapien. Fusce vitae elit aliquet elit mattis pharetra at non tortor. Quisque id augue pulvinar, vehicula turpis eget, dapibus odio. Praesent vel ante at eros efficitur molestie. In nec orci convallis, placerat nulla sed, vestibulum felis. Aliquam tincidunt mi sed nunc tincidunt, semper aliquam ipsum commodo. Nullam facilisis mauris et libero euismod fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in lectus quis sem iaculis fringilla. Nunc quis metus vitae nulla commodo lacinia sed ac tellus. Pellentesque viverra diam vel justo auctor ornare. Ut a volutpat velit, ac molestie nisl. In iaculis, est id maximus vehicula, nunc libero fermentum magna, tincidunt venenatis purus mauris id lectus. Nulla molestie eleifend suscipit.</p>
 
+<h2>What We Are All About?</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam commodo, ante nec fermentum egestas, turpis odio eleifend urna, sed convallis eros ex eget justo. Nam non magna vitae purus finibus mollis suscipit vitae sapien. Fusce vitae elit aliquet elit mattis pharetra at non tortor. Quisque id augue pulvinar, vehicula turpis eget, dapibus odio. Praesent vel ante at eros efficitur molestie. In nec orci convallis, placerat nulla sed, vestibulum felis. Aliquam tincidunt mi sed nunc tincidunt, semper aliquam ipsum commodo. Nullam facilisis mauris et libero euismod fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in lectus quis sem iaculis fringilla. Nunc quis metus vitae nulla commodo lacinia sed ac tellus. Pellentesque viverra diam vel justo auctor ornare. Ut a volutpat velit, ac molestie nisl. In iaculis, est id maximus vehicula, nunc libero fermentum magna, tincidunt venenatis purus mauris id lectus. Nulla molestie eleifend suscipit.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc. Elit eget gravida cum sociis natoque penatibus. Aliquet nec ullamcorper sit amet risus nullam eget felis eget. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque. Justo nec ultrices dui sapien eget mi proin sed. Non arcu risus quis varius quam quisque id diam. At lectus urna duis convallis convallis tellus id interdum. Pulvinar etiam non quam lacus suspendisse faucibus. Non pulvinar neque laoreet suspendisse interdum. Convallis tellus id interdum velit laoreet id. Purus semper eget duis at tellus at. Interdum velit laoreet id donec ultrices tincidunt arcu non sodales. Cras sed felis eget velit aliquet.
+<h2>Founders</h2>
 
-Dolor sit amet consectetur adipiscing elit. Non pulvinar neque laoreet suspendisse. Sed id semper risus in hendrerit gravida rutrum quisque non. At quis risus sed vulputate odio ut enim blandit. Duis at consectetur lorem donec massa sapien. Commodo viverra maecenas accumsan lacus vel facilisis volutpat. Nisl nunc mi ipsum faucibus vitae aliquet nec. Praesent semper feugiat nibh sed pulvinar proin gravida. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Dignissim enim sit amet venenatis urna. Viverra suspendisse potenti nullam ac. Adipiscing diam donec adipiscing tristique risus nec. Leo a diam sollicitudin tempor id eu. At elementum eu facilisis sed odio. Sit amet venenatis urna cursus eget nunc scelerisque viverra mauris. Sed sed risus pretium quam vulputate. Et tortor at risus viverra adipiscing at. Pulvinar neque laoreet suspendisse interdum consectetur libero. Quis commodo odio aenean sed adipiscing.
+<h3>Ben Holmgren</h3>
+<img src="" alt="Profile Pic">
+<p>Integer quis iaculis tellus, in pharetra dui. Suspendisse posuere sem ac pharetra porta. Fusce mattis fermentum lacinia. Nam porta vehicula nisi. Donec eu justo efficitur, scelerisque neque sed, tincidunt tortor. Duis sagittis nulla at libero scelerisque, vestibulum malesuada ex tempor. Nullam neque diam, rutrum vel rhoncus sed, tristique sit amet est.</p>
+
+<h3>Colton Weeding</h3>
+<img src="" alt="Profile Pic">
+<p>Integer quis iaculis tellus, in pharetra dui. Suspendisse posuere sem ac pharetra porta. Fusce mattis fermentum lacinia. Nam porta vehicula nisi. Donec eu justo efficitur, scelerisque neque sed, tincidunt tortor. Duis sagittis nulla at libero scelerisque, vestibulum malesuada ex tempor. Nullam neque diam, rutrum vel rhoncus sed, tristique sit amet est.</p>
+
+<h3>Logan Dolechek</h3>
+<img src="" alt="Profile Pic">
+<p>Integer quis iaculis tellus, in pharetra dui. Suspendisse posuere sem ac pharetra porta. Fusce mattis fermentum lacinia. Nam porta vehicula nisi. Donec eu justo efficitur, scelerisque neque sed, tincidunt tortor. Duis sagittis nulla at libero scelerisque, vestibulum malesuada ex tempor. Nullam neque diam, rutrum vel rhoncus sed, tristique sit amet est.</p>
+
+<h3>Chris Tompkins</h3>
+<img src="" alt="Profile Pic">
+<p>Integer quis iaculis tellus, in pharetra dui. Suspendisse posuere sem ac pharetra porta. Fusce mattis fermentum lacinia. Nam porta vehicula nisi. Donec eu justo efficitur, scelerisque neque sed, tincidunt tortor. Duis sagittis nulla at libero scelerisque, vestibulum malesuada ex tempor. Nullam neque diam, rutrum vel rhoncus sed, tristique sit amet est.</p>
+
