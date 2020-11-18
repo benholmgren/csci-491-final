@@ -4,5 +4,6 @@ permalink: /destinations/mountain/
 redirect_from: /destinations/mountain.html
 ---
 
-1. [Temperate Mountain](https://csci491-01.cs.montana.edu/~f15p655/home/temperatemtns.html)
-2. [K2](https://csci491-01.cs.montana.edu/~f15p655/home/K2.html)
+1. [Temperate Mountain](https://drive.google.com/file/d/1gSDMzTo2yhJgGXDKtgGMzvptrd_P4uve/view?usp=sharing)
+2. [K2 Basecamp](https://drive.google.com/file/d/1QZVIN1ppssTtbnUvi1EFXC02MQaWCSji/view?usp=sharing)
+3. [Brooks Range](https://drive.google.com/file/d/1Kyd1xhxFXkMZN55OgbT6FyTdIbjhQZTQ/view?usp=sharing)
