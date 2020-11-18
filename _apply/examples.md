@@ -13,7 +13,7 @@ redirect_from: /apply/examples.html
 
 		<p>This is how you should format the text file describing your submission</p>
 		<hr>
-		<img src="" alt="Example Text">
+		<img src="https://csci491-01.cs.montana.edu/~g82r811/images/CSCI491_Apply_Text.JPG" alt="Example Text">
 		<hr>
 	</body>
 </html>
