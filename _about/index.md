@@ -13,18 +13,18 @@ redirect_from: /about/index.html
 <h2>Founders</h2>
 
 <h3>Ben Holmgren</h3>
-<img src="" alt="Profile Pic">
+<img src="https://csci491-01.cs.montana.edu/~g82r811/images/CSCI491_Ben.jpg" alt="Profile Pic">
 <p>Integer quis iaculis tellus, in pharetra dui. Suspendisse posuere sem ac pharetra porta. Fusce mattis fermentum lacinia. Nam porta vehicula nisi. Donec eu justo efficitur, scelerisque neque sed, tincidunt tortor. Duis sagittis nulla at libero scelerisque, vestibulum malesuada ex tempor. Nullam neque diam, rutrum vel rhoncus sed, tristique sit amet est.</p>
 
 <h3>Colton Weeding</h3>
-<img src="" alt="Profile Pic">
+<img src="https://csci491-01.cs.montana.edu/~g82r811/images/CSCI491_Colton.jpg" alt="Profile Pic">
 <p>Integer quis iaculis tellus, in pharetra dui. Suspendisse posuere sem ac pharetra porta. Fusce mattis fermentum lacinia. Nam porta vehicula nisi. Donec eu justo efficitur, scelerisque neque sed, tincidunt tortor. Duis sagittis nulla at libero scelerisque, vestibulum malesuada ex tempor. Nullam neque diam, rutrum vel rhoncus sed, tristique sit amet est.</p>
 
 <h3>Logan Dolechek</h3>
-<img src="" alt="Profile Pic">
+<img src="https://csci491-01.cs.montana.edu/~g82r811/images/CSCI491_Logan.jpg" alt="Profile Pic">
 <p>Integer quis iaculis tellus, in pharetra dui. Suspendisse posuere sem ac pharetra porta. Fusce mattis fermentum lacinia. Nam porta vehicula nisi. Donec eu justo efficitur, scelerisque neque sed, tincidunt tortor. Duis sagittis nulla at libero scelerisque, vestibulum malesuada ex tempor. Nullam neque diam, rutrum vel rhoncus sed, tristique sit amet est.</p>
 
 <h3>Chris Tompkins</h3>
-<img src="" alt="Profile Pic">
+<img src="https://csci491-01.cs.montana.edu/~g82r811/images/CSCI491_Chris.jpg" alt="Profile Pic" style="width:100px;height:125px">
 <p>Integer quis iaculis tellus, in pharetra dui. Suspendisse posuere sem ac pharetra porta. Fusce mattis fermentum lacinia. Nam porta vehicula nisi. Donec eu justo efficitur, scelerisque neque sed, tincidunt tortor. Duis sagittis nulla at libero scelerisque, vestibulum malesuada ex tempor. Nullam neque diam, rutrum vel rhoncus sed, tristique sit amet est.</p>
 
