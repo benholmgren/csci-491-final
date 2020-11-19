@@ -12,7 +12,6 @@ redirect_from: /apply/index.html
 
 	.container, .row, .col-md-10 {
 		max-width: 100%;
-		overflow-h: hidden;
 	}
 
 </style>
