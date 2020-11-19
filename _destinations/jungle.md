@@ -8,3 +8,5 @@ redirect_from: /destinations/jungle.html
 
 2. [Mountainside Buddha](https://drive.google.com/file/d/1w59uhI1FWlArxaSW6Fqkk3Tl-ZCtAf_H/view?usp=sharing)
 
+---
+![jungle](../../assets/img/jungbg.jpg)
