@@ -3,6 +3,7 @@ title: Jungles
 permalink: /destinations/jungle/
 redirect_from: /destinations/jungle.html
 ---
+## Top Picks
 
 1. [Jungle waterfall](https://drive.google.com/file/d/1k2P0Uw9x_HSoj5lb5f9ZJUnAyU5gGCbj/view?usp=sharing)
 
