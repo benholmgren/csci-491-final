@@ -51,7 +51,7 @@ redirect_from: /about/index.html
 
 	<div class="row">
 		<div class="col-md-10">
-			<h3 class="col-md-10">Colton Weeding</h3>
+			<h3 class="header-light regular-pad">Colton Weeding</h3>
 			<img src="https://csci491-01.cs.montana.edu/~g82r811/images/CSCI491_Colton.jpg" alt="Profile Pic">
 			<p class="lead">Colton shares a similar fondness for nature. He loves the winters in Montana and the beautiful photos that can be taken when the mountains are covered in snow. Colton is an avid video game player, but he makes sure to leave plenty of time for outdoor adventures.</p>
 			<hr>
