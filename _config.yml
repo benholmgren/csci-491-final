@@ -103,3 +103,6 @@ collections:
   discussion:
     permalink: /:collection/:path/
     output: true
+
+# Google Analytics
+google_analytics: G-2QWDPYBZFM
