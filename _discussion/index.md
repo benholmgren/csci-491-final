@@ -6,7 +6,7 @@ redirect_from: /discussion/index.html
 
 <style>
 
-	h2, h3, summary {
+	h2, h3 {
 		color: rgb(12,227,172)
 	}	
 
@@ -21,10 +21,12 @@ redirect_from: /discussion/index.html
 	<div class="row">
 		<div class="col-md-10">
 			<h2 class="header-light regular-pad">Frequently Asked Questions</h2>
+			<hr>
 			<details>
 				<summary markdown="span">Where does all of the conent come from?</summary>
 				<p class="lead">While we supply most of the photos, video, and music. We also have people from all around the world submit their nature content.</p>
 			</details>
+			<hr>
 		</div>
 	</div>
 
@@ -34,6 +36,7 @@ redirect_from: /discussion/index.html
 				<summary markdown="span">Can I use content from Nature Break for personal use?</summary>
 				<p class="lead">Yes! As long as you are using it strictly for personal use. We ask that if you wish to use our content on a commercial scale that you please contact out team.</p>
 			</details>
+			<hr>
 		</div>
 	</div>
 
@@ -41,6 +44,69 @@ redirect_from: /discussion/index.html
 		<div class="col-md-10">
 			<details>
 				<summary markdown="span">I have suggestions about new features</summary>
+				<p class="lead">We welcome any suggestions you may have. If you wish to see a certain feature implemented, please contact our development team to further discuss your idea at <a href="">devteam@naturetime.org</a></p>
+			</details>
+			<hr>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-10">
+			<details>
+				<summary markdown="span">How can I get my content featured on Nature Break?</summary>
+				<p class="lead">If you would like to know to to get your content featured on our page visit the <a href="https://benholmgren.github.io/csci-491-final/apply/home/">Apply</a> page.</p>
+			</details>
+			<hr>
+		</div>
+	</div>
+
+
+	<div class="row">
+		<div class="col-md-10">
+			<details>
+				<summary markdown="span">Is there a place I can donate to that supports nature conservation?</summary>
+				<p class="lead">Yes! Our favorite organization is <a href="https://secure.actblue.com/donate/e_main_testmonth_c3">Friends of the Earth</a>. They are a great organization that supports all things nature related.</p>
+			</details>
+			<hr>
+		</div>
+	</div>
+
+
+	<div class="row">
+		<div class="col-md-10">
+			<details>
+				<summary markdown="span">Question5</summary>
+				<p class="lead">We welcome any suggestions you may have. If you wish to see a certain feature implemented, please contact our development team to further discuss your idea at devteam@naturetime.org</p>
+			</details>
+			<hr>
+		</div>
+	</div>
+
+
+	<div class="row">
+		<div class="col-md-10">
+			<details>
+				<summary markdown="span">Question6</summary>
+				<p class="lead">We welcome any suggestions you may have. If you wish to see a certain feature implemented, please contact our development team to further discuss your idea at devteam@naturetime.org</p>
+			</details>
+			<hr>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-10">
+			<details>
+				<summary markdown="span">Question7</summary>
+				<p class="lead">We welcome any suggestions you may have. If you wish to see a certain feature implemented, please contact our development team to further discuss your idea at devteam@naturetime.org</p>
+			</details>
+			<hr>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-10">
+			<details>
+				<summary markdown="span">Question8</summary>
 				<p class="lead">We welcome any suggestions you may have. If you wish to see a certain feature implemented, please contact our development team to further discuss your idea at devteam@naturetime.org</p>
 			</details>
 			<hr>
