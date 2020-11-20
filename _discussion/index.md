@@ -75,8 +75,8 @@ redirect_from: /discussion/index.html
 	<div class="row">
 		<div class="col-md-10">
 			<details>
-				<summary markdown="span">Question5</summary>
-				<p class="lead">We welcome any suggestions you may have. If you wish to see a certain feature implemented, please contact our development team to further discuss your idea at devteam@naturetime.org</p>
+				<summary markdown="span">Can I help develop Nature Break?</summary>
+				<p class="lead">We are not currently looking for any more developers at the moment (this may change), but we are always looks for people to help us with translations.</p>
 			</details>
 			<hr>
 		</div>
@@ -86,8 +86,8 @@ redirect_from: /discussion/index.html
 	<div class="row">
 		<div class="col-md-10">
 			<details>
-				<summary markdown="span">Question6</summary>
-				<p class="lead">We welcome any suggestions you may have. If you wish to see a certain feature implemented, please contact our development team to further discuss your idea at devteam@naturetime.org</p>
+				<summary markdown="span">Can I chat with other users?</summary>
+				<p class="lead">We are currently working on a few social features for Nature Break. Our two main focuses are a chatting system and a rating system. Stay tuned for more updates.</p>
 			</details>
 			<hr>
 		</div>
@@ -96,18 +96,8 @@ redirect_from: /discussion/index.html
 	<div class="row">
 		<div class="col-md-10">
 			<details>
-				<summary markdown="span">Question7</summary>
-				<p class="lead">We welcome any suggestions you may have. If you wish to see a certain feature implemented, please contact our development team to further discuss your idea at devteam@naturetime.org</p>
-			</details>
-			<hr>
-		</div>
-	</div>
-
-	<div class="row">
-		<div class="col-md-10">
-			<details>
-				<summary markdown="span">Question8</summary>
-				<p class="lead">We welcome any suggestions you may have. If you wish to see a certain feature implemented, please contact our development team to further discuss your idea at devteam@naturetime.org</p>
+				<summary markdown="span">How can I get involved?</summary>
+				<p class="lead">The best way to get involved with nature is to find your nearest wildlife/nature reserve and volunteer your time. These places are always looking for extra help and you will most likely get to experience some beautiful nature.</p>
 			</details>
 			<hr>
 		</div>
