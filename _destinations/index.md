@@ -5,6 +5,7 @@ redirect_from: /destinations/index.html
 ---
 ## Top Picks
 
+
 1. [Flying over a Whale in the South Atlantic](https://drive.google.com/file/d/1YSw3ANIC7MCBSXeG5fSCEZOgozwKpGPD/view?usp=sharing)
 
 2. [On the prairie with Bison in Yellowstone NP](https://drive.google.com/file/d/1qEkEyYyYTnMNHxo1DYHYsC1q2hJKYpbV/view?usp=sharing)
